@@ -9,8 +9,8 @@ namespace MiPrueba
     {
         static void Main(string[] args)
         {
-
-            Black BackGround !
+            // This was a comment
+            // Black BackGround !
             //
 
             // blbvlblbls
